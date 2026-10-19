@@ -1,0 +1,6 @@
+{
+  "name": "CDD Nan One Platform",
+  "description": "ระบบบริหารจัดการงานพัฒนาชุมชนจังหวัดน่านแบบบูรณาการ สำนักงานพัฒนาชุมชนจังหวัดน่าน กรมการพัฒนาชุมชน กระทรวงมหาดไทย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
